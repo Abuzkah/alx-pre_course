@@ -3,3 +3,4 @@ echo "Git commandline used"
 git add .
 git commit -u "How to be up to date in git"
 git push
+git pull
